@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "src": "https://open.spotify.com/embed/track/5W3cjX2J3tjhG8zb6u0qHn",
+    "posterSrc": "../assets/posters/1.jpg",
+    "nametagSrc": "../assets/nametags/1.png",
+    "song": "Harder, Better, Faster, Stronger",
+    "artist": "Daft Punk",
+    "designer": "Selin Öztürk"
+  },
+  {
+    "id": 2,
+    "src": "https://open.spotify.com/embed/track/6v491HWvBwIULZ9CkrQ664",
+    "posterSrc": "../assets/posters/2.jpg",
+    "nametagSrc": "../assets/nametags/2.png",
+    "song": "All The Things She Said",
+    "artist": "t.A.T.u",
+    "designer": "Şevval Konyalı"
+  },
+  {
+    "id": 3,
+    "src": "https://open.spotify.com/embed/track/6NmdCdQGOBVxVLIIJdPw3z",
+    "posterSrc": "../assets/posters/3.jpg",
+    "nametagSrc": "../assets/nametags/3.png",
+    "song": "Those Were The Days",
+    "artist": "Mary Hopkin",
+    "designer": "Selin Öztürk"
+  },
+  {
+    "id": 4,
+    "src": "https://open.spotify.com/embed/track/2ZE8jWYtT7nCi8WzSuYgXS",
+    "posterSrc": "../assets/posters/4.jpg",
+    "nametagSrc": "../assets/nametags/4.png",
+    "song": "Bella Ciao",
+    "artist": "The Red Army Choir",
+    "designer": "Şevval Konyalı"
+  },
+  {
+    "id": 5,
+    "src": "https://open.spotify.com/embed/track/75L9HQapNnbNUEUGwviKON",
+    "posterSrc": "../assets/posters/5.jpg",
+    "nametagSrc": "../assets/nametags/5.png",
+    "song": "Olmaz Olsun",
+    "artist": "Sezen Aksu",
+    "designer": "Nurbahar Kurtlu"
+  },
+  {
+    "id": 6,
+    "src": "https://open.spotify.com/embed/track/4u7EnebtmKWzUH433cf5Qv",
+    "posterSrc": "../assets/posters/6.jpg",
+    "nametagSrc": "../assets/nametags/6.png",
+    "song": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "designer": "Yasin Kaan Doyuran"
+  },
+  {
+    "id": 7,
+    "src": "https://open.spotify.com/embed/track/0yXvjIDIQKAgjxlKn4Ddy5",
+    "posterSrc": "../assets/posters/7.jpg",
+    "nametagSrc": "../assets/nametags/7.png",
+    "song": "Ahu Gözlüm",
+    "artist": "Mirkelam",
+    "designer": "Şevval Konyalı"
+  },
+  {
+    "id": 8,
+    "src": "https://open.spotify.com/embed/track/3ML1JVicjXbdsyYrPdfr5E",
+    "posterSrc": "../assets/posters/8.jpg",
+    "nametagSrc": "../assets/nametags/8.png",
+    "song": "Ding-a-Dong",
+    "artist": "Teach-In",
+    "designer": "Şevval Konyalı"
+  },
+  {
+    "id": 9,
+    "src": "https://open.spotify.com/embed/track/4KFM3A5QF2IMcc6nHsu3Wp",
+    "posterSrc": "../assets/posters/9.jpg",
+    "nametagSrc": "../assets/nametags/9.png",
+    "song": "Englishman In New York",
+    "artist": "Sting",
+    "designer": "İpek Köprülülü"
+  },
+  {
+    "id": 10,
+    "src": "https://open.spotify.com/embed/track/5pMmWfuL0FTGshYt7HVJ8P",
+    "posterSrc": "../assets/posters/10.jpg",
+    "nametagSrc": "../assets/nametags/10.png",
+    "song": "SOS",
+    "artist": "ABBA",
+    "designer": "Şevval Konyalı"
+  },
+  {
+    "id": 11,
+    "src": "https://open.spotify.com/embed/track/0WQbCSbujb6bSPVENrWYrl",
+    "posterSrc": "../assets/posters/11.jpg",
+    "nametagSrc": "../assets/nametags/11.png",
+    "song": "Stop",
+    "artist": "Justice",
+    "designer": "Öykü Göç"
+  },
+  {
+    "id": 12,
+    "src": "https://open.spotify.com/embed/track/5hVghJ4KaYES3BFUATCYn0",
+    "posterSrc": "../assets/posters/12.jpg",
+    "nametagSrc": "../assets/nametags/12.png",
+    "song": "EARFQUAKE",
+    "artist": "Tyler, The Creator",
+    "designer": "Duygu Korkmaz"
+  },
+  {
+    "id": 13,
+    "src": "https://open.spotify.com/embed/track/6xLWBX2jApQ9ldmdaEF1z2",
+    "posterSrc": "../assets/posters/13.jpg",
+    "nametagSrc": "../assets/nametags/13.png",
+    "song": "Kördüğüm",
+    "artist": "Hümeyra",
+    "designer": "Nurbahar Kurtlu"
+  },
+  {
+    "id": 14,
+    "src": "https://open.spotify.com/embed/track/2IZZqH4K02UIYg5EohpNHF",
+    "posterSrc": "../assets/posters/14.jpg",
+    "nametagSrc": "../assets/nametags/14.png",
+    "song": "Zombie",
+    "artist": "The Cranberries",
+    "designer": "İpek Köprülülü"
+  },
+  {
+    "id": 15,
+    "src": "https://open.spotify.com/embed/track/6VObnIkLVruX4UVyxWhlqm",
+    "posterSrc": "../assets/posters/15.jpg",
+    "nametagSrc": "../assets/nametags/15.png",
+    "song": "Skyfall",
+    "artist": "Adele",
+    "designer": "Kaptan Özgan"
+  },
+  {
+    "id": 16,
+    "src": "https://open.spotify.com/embed/track/0vWr52Zx9XHl3qOVefySzY",
+    "posterSrc": "../assets/posters/16.jpg",
+    "nametagSrc": "../assets/nametags/16.png",
+    "song": "Paramparça",
+    "artist": "Teoman",
+    "designer": "Nurbahar Kurtlu"
+  },
+  {
+    "id": 17,
+    "src": "https://open.spotify.com/embed/track/3wuCCNCnBhJlwkIJTBZFiv",
+    "posterSrc": "../assets/posters/17.jpg",
+    "nametagSrc": "../assets/nametags/17.png",
+    "song": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "designer": "Elif Nur İnce"
+  },
+  {
+    "id": 18,
+    "src": "https://open.spotify.com/embed/track/1hysEI46WrY5Y9G51iznGH",
+    "posterSrc": "../assets/posters/18.jpg",
+    "nametagSrc": "../assets/nametags/18.png",
+    "song": "Ya Evde Yoksan",
+    "artist": "Neredesin Firuze",
+    "designer": "Şevval Konyalı"
+  },
+  {
+    "id": 19,
+    "src": "https://open.spotify.com/embed/track/5XcZRgJv3zMhTqCyESjQrF",
+    "posterSrc": "../assets/posters/19.jpg",
+    "nametagSrc": "../assets/nametags/19.png",
+    "song": "Poison",
+    "artist": "Alice Cooper",
+    "designer": "Aslı Aydın"
+  }
+]
