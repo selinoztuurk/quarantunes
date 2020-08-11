@@ -1,6 +1,6 @@
 import React from "react";
 import PosterRow from "./PosterRow";
-import songList from "../assets/songs.json";
+import songList from "/assets/songs.json";
 
 const PosterList = () => {
   var posterLink = (id) => {
