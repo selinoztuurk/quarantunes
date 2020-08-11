@@ -4,13 +4,13 @@ import songList from "../assets/songs.json";
 
 const PosterList = () => {
   var posterLink = (id) => {
-    return "assets/posters/" + id + "-min.jpg";
+    return "/assets/posters/" + id + "-min.jpg";
   };
   var nametagLink = (id) => {
-    return "assets/nametags/" + id + ".png";
+    return "/assets/nametags/" + id + ".png";
   };
   var songLink = (id) => {
-    return "assets/songs/" + id + ".mov";
+    return "/assets/songs/" + id + ".mov";
   };
 
   const renderedList = songList.map((item) => {
