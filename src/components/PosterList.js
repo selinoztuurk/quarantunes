@@ -1,16 +1,16 @@
 import React from "react";
 import PosterRow from "./PosterRow";
-import songList from "../assets/songs.json";
+import songList from "../songs.json";
 
 const PosterList = () => {
   var posterLink = (id) => {
-    return "../assets/posters/" + id + "-min.jpg";
+    return process.env.PUBLIC_URL + "/assets/posters/" + id + "-min.jpg";
   };
   var nametagLink = (id) => {
-    return "../assets/nametags/" + id + ".png";
+    return process.env.PUBLIC_URL + "/assets/nametags/" + id + ".png";
   };
   var songLink = (id) => {
-    return "../assets/songs/" + id + ".mov";
+    return process.env.PUBLIC_URL + "/assets/songs/" + id + ".mov";
   };
 
   const renderedList = songList.map((item) => {
