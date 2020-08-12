@@ -4,6 +4,23 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
   var song = new Audio(songSrc);
   song.preload = "none";
   song.muted = true;
+  song.autoplay = false;
+
+  const playSong = () => {
+    try {
+      song.play();
+    } catch (e) {
+      console.log(e);
+    }
+  };
+
+  const pauseSong = () => {
+    try {
+      song.pause();
+    } catch (e) {
+      console.log(e);
+    }
+  };
 
   return (
     <div className="ui container">
@@ -18,14 +35,18 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
           <img
             alt="poster"
             src={imgSrc}
-            style={{ width: "80%", border: "2px solid #74CEEB" }}
+            style={{
+              width: "80%",
+              height: "100%",
+              border: "2px solid #74CEEB",
+            }}
             onMouseEnter={() => {
               song.muted = false;
-              song.play();
+              playSong();
             }}
             onMouseLeave={() => {
               song.muted = true;
-              song.pause();
+              pauseSong();
             }}
           />
         </div>
