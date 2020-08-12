@@ -17,8 +17,8 @@ const PosterList = () => {
     return (
       <PosterRow
         spotifySrc={item.src}
-        imgSrc={posterLink(item.id)}
-        nameSrc={nametagLink(item.id)}
+        imgSrc={item.posterSrc}
+        nameSrc={item.nametagSrc}
         songSrc={songLink(item.id)}
       />
     );

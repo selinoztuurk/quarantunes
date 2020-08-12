@@ -2,8 +2,9 @@
   {
     "id": 1,
     "src": "https://open.spotify.com/embed/track/5W3cjX2J3tjhG8zb6u0qHn",
-    "posterSrc": "../assets/posters/1.jpg",
-    "nametagSrc": "../assets/nametags/1.png",
+    "posterSrc": "https://lh6.googleusercontent.com/IBfOCkYYwBx7uzJyuauhndJwOUtjhO2XUpQ1-mURJvwGgn4pYYkbw9tvgW5W4Z2ldfG6gb7AGDfl0gd0u2U=w1280-h623-rw",
+    "nametagSrc": "https://lh6.googleusercontent.com/Np_TjFdevsc_sEJ-YslYeltYfJWV5QcPeEgZweFPXxFAawejq0OJCYo0TbkpAhey5rdBLBXqvkKa3tU1M8A=w1280-h623",
+    "songSrc": "",
     "song": "Harder, Better, Faster, Stronger",
     "artist": "Daft Punk",
     "designer": "Selin Öztürk"
@@ -11,8 +12,9 @@
   {
     "id": 2,
     "src": "https://open.spotify.com/embed/track/6v491HWvBwIULZ9CkrQ664",
-    "posterSrc": "../assets/posters/2.jpg",
-    "nametagSrc": "../assets/nametags/2.png",
+    "posterSrc": "https://lh5.googleusercontent.com/811Bt10I8UFsC-QX7S3gKC82a1g9zcYPzIWKFiKQZGgFpyQJkKU5FHSw9a1gCB1uiXXOnwuAXJSfJg3YVrM=w1280-h623-rw",
+    "nametagSrc": "https://lh3.googleusercontent.com/YwNEZ_dkjpcDllx4y5nML69o4VpnOK-JApY2X4bgwHcLxZdVSUamwIUMYzTVT0pka8VMOCxovcmDjOYj6g8=w1280-h315",
+    "songSrc": "",
     "song": "All The Things She Said",
     "artist": "t.A.T.u",
     "designer": "Şevval Konyalı"
@@ -20,8 +22,9 @@
   {
     "id": 3,
     "src": "https://open.spotify.com/embed/track/6NmdCdQGOBVxVLIIJdPw3z",
-    "posterSrc": "../assets/posters/3.jpg",
-    "nametagSrc": "../assets/nametags/3.png",
+    "posterSrc": "https://lh5.googleusercontent.com/kwhPOeWA11fAYJU3BucAjS6Gq_C_WBVrVNH9jDtQdZVqRG_nElahVqpnpMEfPofIDwj08PWASFfy-mExUfw=w1280-h623-rw",
+    "nametagSrc": "https://lh6.googleusercontent.com/SEY6Z-kUOiSSWMWD8T8gA9QlZGhBB7PSwzjG86Tl5G3ujuuZmlSTmS9EMXuYFIKXI9BPb1vngfKyCQXQ5dM=w1280-h623",
+    "songSrc": "",
     "song": "Those Were The Days",
     "artist": "Mary Hopkin",
     "designer": "Selin Öztürk"
@@ -29,8 +32,9 @@
   {
     "id": 4,
     "src": "https://open.spotify.com/embed/track/2ZE8jWYtT7nCi8WzSuYgXS",
-    "posterSrc": "../assets/posters/4.jpg",
-    "nametagSrc": "../assets/nametags/4.png",
+    "posterSrc": "https://lh6.googleusercontent.com/pTlWJ0UqXTI8JxGEIBhwo_xiooJiAKy7JR0O31bqceEwwm4SaiYwJqGE36c7nanCHQtkc3UMLpsm_UuDxGc=w1280-h623-rw",
+    "nametagSrc": "https://lh6.googleusercontent.com/OwQ1S1cEK41JFoi72hQfVqOizXR685oY6zsrvQO8iorQBvwraV8dDoNmWo4EgYgviQLRqL05Pj6LJi4g_V0=w1280-h623",
+    "songSrc": "",
     "song": "Bella Ciao",
     "artist": "The Red Army Choir",
     "designer": "Şevval Konyalı"
@@ -38,8 +42,9 @@
   {
     "id": 5,
     "src": "https://open.spotify.com/embed/track/75L9HQapNnbNUEUGwviKON",
-    "posterSrc": "../assets/posters/5.jpg",
-    "nametagSrc": "../assets/nametags/5.png",
+    "posterSrc": "https://lh5.googleusercontent.com/fdQxLG0StuPwf70x2GKVLVP0uFPRra8Kgaszjk-L9nkEK9BHxCgFvWywFsUaNZ9VmtslaSR8IOlr06BYPcw=w1280-h623-rw",
+    "nametagSrc": "https://lh3.googleusercontent.com/hCemTA4TG8do9JOVOwZWWqsZGjIAIv_pp3GkE2OFSbxuK0tt1aBdJ-EsUG3nwMwAaPHZtFdwYQe85aTCVi8=w1280-h623",
+    "songSrc": "",
     "song": "Olmaz Olsun",
     "artist": "Sezen Aksu",
     "designer": "Nurbahar Kurtlu"
@@ -47,8 +52,9 @@
   {
     "id": 6,
     "src": "https://open.spotify.com/embed/track/4u7EnebtmKWzUH433cf5Qv",
-    "posterSrc": "../assets/posters/6.jpg",
-    "nametagSrc": "../assets/nametags/6.png",
+    "posterSrc": "https://lh5.googleusercontent.com/nmdHnIMN5F5L8ODEHnAiLcYzhc1-ax2u0VuyEsk7h4cY0vAo5Rypl-VVF5Qlo-elLv5pZDWBGCtwwjLv8lY=w1280-h623-rw",
+    "nametagSrc": "https://lh5.googleusercontent.com/aj_Y1vHKVR-W3WP5lO4E-rG_32cdotw02_CZI4AL0GrMR4GQmf9RA_TJyciQAqlFtaN6jJ87-VIDMssGsd0=w1280-h623",
+    "songSrc": "",
     "song": "Bohemian Rhapsody",
     "artist": "Queen",
     "designer": "Yasin Kaan Doyuran"
@@ -56,8 +62,9 @@
   {
     "id": 7,
     "src": "https://open.spotify.com/embed/track/0yXvjIDIQKAgjxlKn4Ddy5",
-    "posterSrc": "../assets/posters/7.jpg",
-    "nametagSrc": "../assets/nametags/7.png",
+    "posterSrc": "https://lh3.googleusercontent.com/edefsrYBKH_FnncP0zio1RPys2idQYwNkpwPPdLNSpXdsGl4tmkxqE8WihxdK_AZbkRHZgS3BQfFC3qlS4g=w1280-h623-rw",
+    "nametagSrc": "https://lh4.googleusercontent.com/R8OPNs_KzMBARNHt-VYGyVw3ZXnVCvZ5n7RXqJIZKuddyYKJgbYDoPy5LfWfkc7b9IDcnSkVNaQnPCOKwi4=w1280-h623",
+    "songSrc": "",
     "song": "Ahu Gözlüm",
     "artist": "Mirkelam",
     "designer": "Şevval Konyalı"
@@ -65,8 +72,9 @@
   {
     "id": 8,
     "src": "https://open.spotify.com/embed/track/3ML1JVicjXbdsyYrPdfr5E",
-    "posterSrc": "../assets/posters/8.jpg",
-    "nametagSrc": "../assets/nametags/8.png",
+    "posterSrc": "https://lh5.googleusercontent.com/HKLjaNUKi0fIBVwx_FJ1d8JvCg0UKNxBgWfdqKMAwtW2VW6gqcDHXfyex7LHt7tQSoqaYhOszuLKcAgf3Gk=w1280-h623-rw",
+    "nametagSrc": "https://lh5.googleusercontent.com/33-95k_vld8bN3jxM2N7HAwgp2ljC-e9-xXmoDw6mH6WCVd5Ahf3GB7J11rrNjZnUhFktl_un8cB2hNdv80=w1280-h623",
+    "songSrc": "",
     "song": "Ding-a-Dong",
     "artist": "Teach-In",
     "designer": "Şevval Konyalı"
@@ -74,8 +82,9 @@
   {
     "id": 9,
     "src": "https://open.spotify.com/embed/track/4KFM3A5QF2IMcc6nHsu3Wp",
-    "posterSrc": "../assets/posters/9.jpg",
-    "nametagSrc": "../assets/nametags/9.png",
+    "posterSrc": "https://lh4.googleusercontent.com/YssCR71KxjS8VJe8xFAiIeT5yWThu5zHmP2r6pqNs9Tyt_0AwUASI38mOtOaxoZZ9IEIZzOMAoZTtUtLr2Y=w1280-h623-rw",
+    "nametagSrc": "https://lh5.googleusercontent.com/lrPOKNujdRlcqGHvKlopa0v5OoO0ud6GDfUpM1HjMF0PGLhOhv5CXnAqMOaGeOIjLsxTYvvQP97fdiGYifI=w1280-h315",
+    "songSrc": "",
     "song": "Englishman In New York",
     "artist": "Sting",
     "designer": "İpek Köprülülü"
@@ -83,8 +92,9 @@
   {
     "id": 10,
     "src": "https://open.spotify.com/embed/track/5pMmWfuL0FTGshYt7HVJ8P",
-    "posterSrc": "../assets/posters/10.jpg",
-    "nametagSrc": "../assets/nametags/10.png",
+    "posterSrc": "https://lh3.googleusercontent.com/ouJ68WjxyrwSGSyDXNLIWaiBpFAKarg_Q7XH0Z_uzCY05tqsiGKoUE5eT4FUUeQTXoOpOhRHNBpMmqHQYBk=w1280-h623-rw",
+    "nametagSrc": "https://lh3.googleusercontent.com/ngQHUnslaaVUMgBNeiY02JuqH5hyABsmNrjcZW__egfKCID-Vo3uzd0kvuNXwBHW1n02wnMpAxfYOxb0FDY=w1280-h623",
+    "songSrc": "",
     "song": "SOS",
     "artist": "ABBA",
     "designer": "Şevval Konyalı"
@@ -92,8 +102,9 @@
   {
     "id": 11,
     "src": "https://open.spotify.com/embed/track/0WQbCSbujb6bSPVENrWYrl",
-    "posterSrc": "../assets/posters/11.jpg",
-    "nametagSrc": "../assets/nametags/11.png",
+    "posterSrc": "https://lh6.googleusercontent.com/JbO3R5UYSgqXbMOzhFN0wrlIaGsRf6SSFYS9_tJMmJL9r-m5UnHY89m7WugR0hpt3Hh_zf41eC0B4xcJgaI=w1280-h623-rw",
+    "nametagSrc": "https://lh5.googleusercontent.com/H1uvDLHs6WpebQYZJ3_S0XDvw-hE0V5E4n_ddXmHIc-eVV057E-Osvf4L15YR1jsmPlhE5NHV9ZgUPOnkmU=w1280-h623",
+    "songSrc": "",
     "song": "Stop",
     "artist": "Justice",
     "designer": "Öykü Göç"
@@ -101,8 +112,9 @@
   {
     "id": 12,
     "src": "https://open.spotify.com/embed/track/5hVghJ4KaYES3BFUATCYn0",
-    "posterSrc": "../assets/posters/12.jpg",
-    "nametagSrc": "../assets/nametags/12.png",
+    "posterSrc": "https://lh5.googleusercontent.com/DUtW6c4OCVeNZzjSv6o7jMF2P8xxUU7KvuWF7KO-tjqguEagd9sK5yt_KdtOPLkgMGbuEa-xyn1kMvArZxo=w1280-h623-rw",
+    "nametagSrc": "https://lh3.googleusercontent.com/5QIXJ3zi2Pl0sUyy32m93hJEn5YBsCeYAOcJeu3IOTCHVdWKH_nZoQ1Yqw5AT2y81vs-i8GywgDh1fZeHBc=w1280-h315",
+    "songSrc": "",
     "song": "EARFQUAKE",
     "artist": "Tyler, The Creator",
     "designer": "Duygu Korkmaz"
@@ -110,8 +122,9 @@
   {
     "id": 13,
     "src": "https://open.spotify.com/embed/track/6xLWBX2jApQ9ldmdaEF1z2",
-    "posterSrc": "../assets/posters/13.jpg",
-    "nametagSrc": "../assets/nametags/13.png",
+    "posterSrc": "https://lh5.googleusercontent.com/dRdJX0ufFKhe2pUfKiShPdejm0LS3lFWqqx7iydBjDLa9iLVNp4U9K84aF4Az2Um5TiumUKMN_W1YY5HZgY=w1280-h623-rw",
+    "nametagSrc": "https://lh4.googleusercontent.com/Ziy9U0Rcf-sXI-mORVSoX3phCjED0GoeYuwkIjQa8Bbrj_XWJiLrhOtlaWz_geOCo6mLzNrlbzK-yczBMNQ=w1280-h623",
+    "songSrc": "",
     "song": "Kördüğüm",
     "artist": "Hümeyra",
     "designer": "Nurbahar Kurtlu"
@@ -119,8 +132,9 @@
   {
     "id": 14,
     "src": "https://open.spotify.com/embed/track/2IZZqH4K02UIYg5EohpNHF",
-    "posterSrc": "../assets/posters/14.jpg",
-    "nametagSrc": "../assets/nametags/14.png",
+    "posterSrc": "https://lh4.googleusercontent.com/Zm0l2Z_31Tf5KBFqZHFA5HTPYN2pzSlVYM8YDCQHmS3OSPp1sSkUQPytCx6L6HvpFCkpLV6-l3SVfw4Wboo=w1280-h623-rw",
+    "nametagSrc": "https://lh5.googleusercontent.com/-ZE5Nb8axJb_4NuGXc4t-3mywzG6LLTMzM0vJsRfz1_zNwvHHdFeqCLnjlU-1hGSz6tgW9xEoHyGX3KEors=w1280-h623",
+    "songSrc": "",
     "song": "Zombie",
     "artist": "The Cranberries",
     "designer": "İpek Köprülülü"
@@ -128,8 +142,9 @@
   {
     "id": 15,
     "src": "https://open.spotify.com/embed/track/6VObnIkLVruX4UVyxWhlqm",
-    "posterSrc": "../assets/posters/15.jpg",
-    "nametagSrc": "../assets/nametags/15.png",
+    "posterSrc": "https://lh4.googleusercontent.com/RMZ78rFAn20312UiWUGTMdMemjG0LBWWP1_-pmIcm0B-fiSJ_UW2MpLAiyCl-8hxBUHWnLsZZtwikwDG4ng=w1280-h623-rw",
+    "nametagSrc": "https://lh5.googleusercontent.com/CCfE6lOGkxDBSGZYeZ_h7hlXBHqU_PJ6Wj2jtBzeOdk5GCdDoTGuoyNqGF7NiYIjSINdZGybkBfWxfBH0t4=w1280-h623",
+    "songSrc": "",
     "song": "Skyfall",
     "artist": "Adele",
     "designer": "Kaptan Özgan"
@@ -137,8 +152,9 @@
   {
     "id": 16,
     "src": "https://open.spotify.com/embed/track/0vWr52Zx9XHl3qOVefySzY",
-    "posterSrc": "../assets/posters/16.jpg",
-    "nametagSrc": "../assets/nametags/16.png",
+    "posterSrc": "https://lh6.googleusercontent.com/X-Eqgm_V3a7V330tUbqKN3UFB6rNGlqg0_iuab6lPRMVQMwzopJMYAprxYZmqgl0y_MuxO_GuEcPaQq3GQQ=w1280-h623-rw",
+    "nametagSrc": "https://lh6.googleusercontent.com/QDR5-ZXiQtMm5qqmT2hT_8KOeB3NWcx7c8wmFUIrok04O9xeDtAFnTUtD0Svw5dzyO1PyXZrP5dOBSYWRgU=w1280-h623",
+    "songSrc": "",
     "song": "Paramparça",
     "artist": "Teoman",
     "designer": "Nurbahar Kurtlu"
@@ -146,8 +162,9 @@
   {
     "id": 17,
     "src": "https://open.spotify.com/embed/track/3wuCCNCnBhJlwkIJTBZFiv",
-    "posterSrc": "../assets/posters/17.jpg",
-    "nametagSrc": "../assets/nametags/17.png",
+    "posterSrc": "https://lh3.googleusercontent.com/NLu3G60OryoV5Rl-vaIyAGbKhv2Q_ZD32TUMLcKkuCawsnAeJB4WVShR-2L7s4Tv3iHScDsowrD2cxzRge8=w1280-h623-rw",
+    "nametagSrc": "https://lh6.googleusercontent.com/yekV29QlRLhEFinVpLpmdXFugIAasFZP-s8IAyt0Xc4Uy5rK6Viyg-YS0xEremCKGg63GKGG1iaolu6UxzU=w1280-h623",
+    "songSrc": "",
     "song": "They Don't Care About Us",
     "artist": "Michael Jackson",
     "designer": "Elif Nur İnce"
@@ -155,8 +172,9 @@
   {
     "id": 18,
     "src": "https://open.spotify.com/embed/track/1hysEI46WrY5Y9G51iznGH",
-    "posterSrc": "../assets/posters/18.jpg",
-    "nametagSrc": "../assets/nametags/18.png",
+    "posterSrc": "https://lh3.googleusercontent.com/TlYyf4YkC4UIMn5xSEoV10zImsvop4i2mgcAWmFI_EmZkn_IlnUfGZRNrXBy4Iqh4_LX51ocCimuE7pyMZY=w1280-h623-rw",
+    "nametagSrc": "https://lh3.googleusercontent.com/8MyR_bZlGeLHTLHoeXc-KTA9oebtccP5B-fv3GJXabRYC7-sLdw5xyupaqAc1YPzhWWtft7yCtGtlmxRqN8=w1280-h315",
+    "songSrc": "",
     "song": "Ya Evde Yoksan",
     "artist": "Neredesin Firuze",
     "designer": "Şevval Konyalı"
@@ -164,8 +182,9 @@
   {
     "id": 19,
     "src": "https://open.spotify.com/embed/track/5XcZRgJv3zMhTqCyESjQrF",
-    "posterSrc": "../assets/posters/19.jpg",
-    "nametagSrc": "../assets/nametags/19.png",
+    "posterSrc": "https://lh3.googleusercontent.com/r-GvxeXKxb91fpxckfVnuLhmBMpJdo_oh41Vkaed2utZbRzbdoKB3GrOmanJX5ovbcQjxPSd3HTeVPR9FDU=w1280-h623-rw",
+    "nametagSrc": "https://lh6.googleusercontent.com/QzsU99W2aU6tHEp0ttAvDTlRaBd5QJTAyWEzL8DROTSL88kCR-oy9O4q1BiX0Uu7xnFV4dRHkuqAcGgee5E=w1280-h315",
+    "songSrc": "",
     "song": "Poison",
     "artist": "Alice Cooper",
     "designer": "Aslı Aydın"
