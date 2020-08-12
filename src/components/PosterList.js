@@ -16,6 +16,7 @@ const PosterList = () => {
   const renderedList = songList.map((item) => {
     return (
       <PosterRow
+        key={item.song}
         spotifySrc={item.src}
         imgSrc={posterLink(item.id)}
         nameSrc={nametagLink(item.id)}

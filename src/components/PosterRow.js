@@ -3,6 +3,7 @@ import React from "react";
 const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
   var song = new Audio(songSrc);
   song.preload = "none";
+  song.muted = true;
 
   return (
     <div className="ui container">
@@ -19,9 +20,11 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
             src={imgSrc}
             style={{ width: "80%", border: "2px solid #74CEEB" }}
             onMouseEnter={() => {
+              song.muted = false;
               song.play();
             }}
             onMouseLeave={() => {
+              song.muted = true;
               song.pause();
             }}
           />
@@ -42,7 +45,7 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
             src={spotifySrc}
             width="300"
             height="80"
-            frameborder="0"
+            frameBorder="0"
             allowtransparency="true"
             allow="encrypted-media"
           ></iframe>
