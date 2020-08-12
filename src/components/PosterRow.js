@@ -7,18 +7,28 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
   song.autoplay = false;
 
   const playSong = () => {
-    try {
-      song.play();
-    } catch (e) {
-      console.log(e);
+    var promise = song.play();
+    if (promise !== undefined) {
+      promise
+        .catch((e) => {
+          console.log(e);
+        })
+        .then(() => {
+          song.play();
+        });
     }
   };
 
   const pauseSong = () => {
-    try {
-      song.pause();
-    } catch (e) {
-      console.log(e);
+    var promise = song.pause();
+    if (promise !== undefined) {
+      promise
+        .catch((e) => {
+          console.log(e);
+        })
+        .then(() => {
+          song.pause();
+        });
     }
   };
 
