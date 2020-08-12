@@ -14,7 +14,7 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
           console.log(e);
         })
         .then(() => {
-          song.play();
+          playSong();
         });
     }
   };
@@ -27,7 +27,7 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
           console.log(e);
         })
         .then(() => {
-          song.pause();
+          pauseSong();
         });
     }
   };
