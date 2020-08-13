@@ -36,9 +36,9 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
 
   return (
     <div className="ui container">
-      <div className="ui two column grid">
+      <div className="ui centered grid">
         <div
-          className="column"
+          className="eight wide computer twelve wide mobile column"
           style={{
             display: "flex",
             placeContent: "center",
@@ -86,27 +86,11 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
               }
             }}
           />
-        </div>
-        <div
-          className="column"
-          style={{
-            display: "flex",
-          }}
-        >
           <img
             alt="nametag"
             src={nameSrc}
-            style={{ height: "80px", border: "8px solid black" }}
+            style={{ height: "10%", width: "auto", border: "3px solid black" }}
           />
-          <iframe
-            style={{ position: "absolute", top: "100px" }}
-            src={spotifySrc}
-            width="300"
-            height="80"
-            frameBorder="0"
-            allowtransparency="true"
-            allow="encrypted-media"
-          ></iframe>
         </div>
       </div>
     </div>
