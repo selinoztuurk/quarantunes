@@ -1,20 +1,22 @@
 import React from "react";
 
 const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
-  var song = new Audio(songSrc);
+  /*var song = new Audio(songSrc);
   song.preload = "none";
   song.muted = true;
-  song.autoplay = false;
+  song.autoplay = false;*/
 
-  const playSong = () => {
+  var song = null;
+
+  /*const playSong = () => {
     var promise = song.play();
     if (promise !== undefined) {
       promise
-        .catch((e) => {
-          console.log(e);
-        })
         .then(() => {
           song.play();
+        })
+        .catch((e) => {
+          console.log(e);
         });
     }
   };
@@ -23,14 +25,14 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
     var promise = song.pause();
     if (promise !== undefined) {
       promise
-        .catch((e) => {
-          console.log(e);
-        })
         .then(() => {
           song.pause();
+        })
+        .catch((e) => {
+          console.log(e);
         });
     }
-  };
+  };*/
 
   return (
     <div className="ui container">
@@ -50,13 +52,36 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
               height: "100%",
               border: "2px solid #74CEEB",
             }}
-            onMouseEnter={() => {
-              song.muted = false;
-              playSong();
+            onClick={() => {
+              //song.muted = false;
+              //playSong();
+              if (song === null) {
+                song = new Audio(songSrc);
+              }
+              var promise = song.play();
+              if (promise !== undefined) {
+                promise
+                  .then(() => {
+                    song.play();
+                  })
+                  .catch((e) => {
+                    console.log(e);
+                  });
+              }
             }}
             onMouseLeave={() => {
-              song.muted = true;
-              pauseSong();
+              //song.muted = true;
+              //pauseSong();
+              var promise = song.pause();
+              if (promise !== undefined) {
+                promise
+                  .then(() => {
+                    song.pause();
+                  })
+                  .catch((e) => {
+                    console.log(e);
+                  });
+              }
             }}
           />
         </div>
