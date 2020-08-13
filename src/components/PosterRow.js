@@ -38,10 +38,11 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
     <div className="ui container">
       <div className="ui centered grid">
         <div
-          className="eight wide computer twelve wide mobile column"
+          className="eight wide computer fourteen wide mobile column"
           style={{
             display: "flex",
             placeContent: "center",
+            height: "100%",
           }}
         >
           <img
@@ -49,7 +50,7 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
             src={imgSrc}
             style={{
               width: "80%",
-              height: "100%",
+              height: "auto",
               border: "2px solid #74CEEB",
             }}
             onClick={() => {
@@ -89,7 +90,7 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
           <img
             alt="nametag"
             src={nameSrc}
-            style={{ height: "10%", width: "auto", border: "3px solid black" }}
+            style={{ height: "30px", width: "auto", border: "3px solid black" }}
           />
         </div>
       </div>
