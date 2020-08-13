@@ -72,15 +72,17 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
             onMouseLeave={() => {
               //song.muted = true;
               //pauseSong();
-              var promise = song.pause();
-              if (promise !== undefined) {
-                promise
-                  .then(() => {
-                    song.pause();
-                  })
-                  .catch((e) => {
-                    console.log(e);
-                  });
+              if (song !== null) {
+                var promise = song.pause();
+                if (promise !== undefined) {
+                  promise
+                    .then(() => {
+                      song.pause();
+                    })
+                    .catch((e) => {
+                      console.log(e);
+                    });
+                }
               }
             }}
           />
