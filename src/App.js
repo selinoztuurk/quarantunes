@@ -27,8 +27,10 @@ const App = () => {
               we, the creative typography students bound at home, were lucky to
               listen to the timeless songs all of which were born with a hum
               and/or a word. so we simply went to the beginning by designing
-              posters humming typography. click on the posters to listen to the
-              songs that inspired our work.
+              posters humming typography. <br />
+              <br />
+              click on the posters to listen to the songs that inspired our
+              work.
             </p>
             <a href="https://open.spotify.com/playlist/3Po4H8HFm90spt2JJIxLbm?si=a_Ep5eZ6QvihFalaTtMbVQ">
               <img

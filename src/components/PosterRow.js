@@ -83,11 +83,19 @@ const PosterRow = ({ item, songSrc, imgSrc, nameSrc, spotifySrc }) => {
               }
             }}
           />
-          <div className="nametag">
-            <h2 style={{ fontFamily: "monospace" }}>{item.designer}</h2>
-            <h4 style={{ fontFamily: "monospace" }}>
-              {item.song} <br /> {item.artist}
-            </h4>
+          <div className="nametag" style={{ marginTop: "3%" }}>
+            <p
+              style={{
+                fontFamily: "monospace",
+                fontSize: "large",
+                fontWeight: "bold",
+              }}
+            >
+              {item.designer}
+            </p>
+            <p style={{ fontFamily: "monospace" }}>
+              "{item.song}" <br /> {item.artist}
+            </p>
           </div>
         </div>
       </div>
