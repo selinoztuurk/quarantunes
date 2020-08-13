@@ -1,6 +1,6 @@
 import React from "react";
 
-const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
+const PosterRow = ({ item, songSrc, imgSrc, nameSrc, spotifySrc }) => {
   /*var song = new Audio(songSrc);
   song.preload = "none";
   song.muted = true;
@@ -39,17 +39,13 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
       <div className="ui centered grid">
         <div
           className="eight wide computer fourteen wide mobile column"
-          style={{
-            display: "flex",
-            placeContent: "center",
-            height: "100%",
-          }}
+          style={{ marginBottom: "10%" }}
         >
           <img
             alt="poster"
             src={imgSrc}
             style={{
-              width: "80%",
+              width: "100%",
               height: "auto",
               border: "2px solid #74CEEB",
             }}
@@ -87,11 +83,12 @@ const PosterRow = ({ songSrc, imgSrc, nameSrc, spotifySrc }) => {
               }
             }}
           />
-          <img
-            alt="nametag"
-            src={nameSrc}
-            style={{ height: "30px", width: "auto", border: "3px solid black" }}
-          />
+          <div className="nametag">
+            <h2 style={{ fontFamily: "monospace" }}>{item.designer}</h2>
+            <h4 style={{ fontFamily: "monospace" }}>
+              {item.song} <br /> {item.artist}
+            </h4>
+          </div>
         </div>
       </div>
     </div>
