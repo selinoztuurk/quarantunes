@@ -1,3 +1,5 @@
+This is a personal project that I created for presenting student works on Koc University's MAVA328 (Creative Typography) course. Click on the posters to listen to the songs that inspired the artwork.<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 A demo for this project can be found at [this link](https://quarantunes.herokuapp.com/).
 
